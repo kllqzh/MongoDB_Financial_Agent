@@ -1,0 +1,57 @@
+asset_id,symbol,name,asset_type,sector,country,exchange
+0489530f-07bb-4427-2b15-c52d824f6f4a,AAPL,Apple Inc.,stock,technology,US,NASDAQ
+5b37f78c-f368-0136-9340-ea8e3af6f1c9,MSFT,Microsoft Corporation,stock,technology,US,NASDAQ
+3ee32a25-72ae-a1d2-b380-43719a081860,GOOGL,Alphabet Inc. Class A,stock,technology,US,NASDAQ
+2b94fb7a-ce8a-7421-9fde-3bc9f949531e,AMZN,Amazon.com Inc.,stock,consumer_discretionary,US,NASDAQ
+ecbcc630-8f6a-3589-7c53-a568550515a9,NVDA,NVIDIA Corporation,stock,technology,US,NASDAQ
+4d40ebcc-c4e3-ce9a-2822-67e31222a7c0,META,Meta Platforms Inc.,stock,technology,US,NASDAQ
+a69fef63-3254-0a2f-5344-00c61cd53b6e,TSLA,Tesla Inc.,stock,consumer_discretionary,US,NASDAQ
+78572912-aa3b-a063-8b24-3fd94604d701,BRK.B,Berkshire Hathaway Inc. Class B,stock,financials,US,NYSE
+c710909c-9940-0f49-780c-ea4d051e9071,JPM,JPMorgan Chase & Co.,stock,financials,US,NYSE
+810af81f-2c10-d110-c52d-6d1b5613f63c,V,Visa Inc.,stock,financials,US,NYSE
+35841f4e-ec26-44a1-11f4-a1d361046a17,MA,Mastercard Incorporated,stock,financials,US,NYSE
+3e61167c-97c4-ff4c-67e7-01d8c2e5269a,UNH,UnitedHealth Group Incorporated,stock,healthcare,US,NYSE
+09b636ce-6ae9-8c44-5f01-a89cf83c7d9b,JNJ,Johnson & Johnson,stock,healthcare,US,NYSE
+723dd967-5445-6099-aedb-42abdfa92a4d,LLY,Eli Lilly and Company,stock,healthcare,US,NYSE
+486fecf6-9c6a-15e8-3d71-94236d436a25,PFE,Pfizer Inc.,stock,healthcare,US,NYSE
+b184a176-ffca-d6f5-18a0-5a7ac507b14f,XOM,Exxon Mobil Corporation,stock,energy,US,NYSE
+12c9ef5d-a6ac-bfc3-7fcd-9c75791ff326,CVX,Chevron Corporation,stock,energy,US,NYSE
+af5c0d74-5ea5-e590-47d9-8ae6ebaa8241,HD,The Home Depot Inc.,stock,consumer_discretionary,US,NYSE
+12e8404d-02b1-9638-2c2f-59a1120128e9,WMT,Walmart Inc.,stock,consumer_staples,US,NYSE
+1e43719f-b592-7ad3-f088-701d089c4d71,PG,The Procter & Gamble Company,stock,consumer_staples,US,NYSE
+a9cf689f-c504-dfa9-962d-237a8116cb97,KO,The Coca-Cola Company,stock,consumer_staples,US,NYSE
+c52ebadd-4ad9-75d4-21f2-eb34a8683efa,PEP,PepsiCo Inc.,stock,consumer_staples,US,NASDAQ
+24824d02-ff06-eab7-7f75-5914b03906a5,DIS,The Walt Disney Company,stock,communication_services,US,NYSE
+39d3f492-cc02-d508-3d77-fbf8f3391d77,NFLX,Netflix Inc.,stock,communication_services,US,NASDAQ
+2c7ef53e-16d8-f152-5b80-e2a0b972c893,ADBE,Adobe Inc.,stock,technology,US,NASDAQ
+c4f80a0b-4e9e-2cb7-f42c-714e6b4bc05c,CRM,Salesforce Inc.,stock,technology,US,NYSE
+78eb2cad-0577-4233-0eaf-0dcb1dc10e0b,ORCL,Oracle Corporation,stock,technology,US,NYSE
+04a0218e-2e09-4c14-d734-34914baa8dfa,CSCO,Cisco Systems Inc.,stock,technology,US,NASDAQ
+9474fbaa-947e-e14c-c99a-5a13219122a4,INTC,Intel Corporation,stock,technology,US,NASDAQ
+6b5fcffb-d626-bdbb-15b4-e5927294e64c,BA,The Boeing Company,stock,industrials,US,NYSE
+dcc0cd8e-d2cb-159f-2aff-19d164c8136b,CAT,Caterpillar Inc.,stock,industrials,US,NYSE
+39c49215-81b7-0b47-a37c-73cb7ed66bf4,GE,General Electric Company,stock,industrials,US,NYSE
+30bd7a71-410f-5115-c13c-1e869d1793df,MMM,3M Company,stock,industrials,US,NYSE
+8fcfd682-30d8-7ba4-8cff-29269b0088e4,NKE,NIKE Inc.,stock,consumer_discretionary,US,NYSE
+2f3df1f4-4fd9-e46c-7405-75bb8a9f8c63,SBUX,Starbucks Corporation,stock,consumer_discretionary,US,NASDAQ
+f467cc25-0d78-b517-769b-52246bdacdf0,BTC,Bitcoin,crypto,crypto,-,CRYPTO
+42382be4-85a9-c893-8d4b-d0a9b1edf261,ETH,Ethereum,crypto,crypto,-,CRYPTO
+14cdfde3-c079-f570-8526-785930e3927a,SOL,Solana,crypto,crypto,-,CRYPTO
+6219fd88-9ee0-8c4a-ccd1-e883c6182e5c,ADA,Cardano,crypto,crypto,-,CRYPTO
+e29e3298-83b9-c93c-b227-696300d7e369,DOT,Polkadot,crypto,crypto,-,CRYPTO
+78287df4-519e-cf5b-6b3e-a567bb3f0c32,MATIC,Polygon,crypto,crypto,-,CRYPTO
+845354e3-e0d2-030e-87d9-8793c3de7805,LINK,Chainlink,crypto,crypto,-,CRYPTO
+c6c2b087-8dc7-f885-0b81-085774746c8f,VTSAX,Vanguard Total Stock Market Index Fund Admiral Shares,fund,diversified,US,MUTUALFUND
+9f5ba9b6-0b71-ab10-12db-fa3b94905671,VFIAX,Vanguard 500 Index Fund Admiral Shares,fund,diversified,US,MUTUALFUND
+7a2e54d4-b085-203b-c414-4f73329fea37,VTIAX,Vanguard Total International Stock Index Admiral,fund,international,US,MUTUALFUND
+3df6e19c-87c5-b8a2-8d09-e1913c6b13b4,VBTLX,Vanguard Total Bond Market Index Admiral,fund,bond,US,MUTUALFUND
+c4d406c1-131e-d5c4-8cad-9284dc637917,SPY,SPDR S&P 500 ETF Trust,fund,diversified,US,NYSEARCA
+526bcfaa-919a-b445-483c-df08e5721d68,QQQ,Invesco QQQ Trust,fund,technology,US,NASDAQ
+cf8bc083-604b-0f3c-db27-7af41a915d01,VTI,Vanguard Total Stock Market ETF,fund,diversified,US,NYSEARCA
+e16bf654-cb56-4e70-54d4-12871205e246,VXUS,Vanguard Total International Stock ETF,fund,international,US,NASDAQ
+4fdfe1b1-8cf6-3ecc-ca48-24f857869e57,BND,Vanguard Total Bond Market ETF,fund,bond,US,NASDAQ
+3b5c11d3-a3b8-f90f-65b0-a29cabb3578b,VOO,Vanguard S&P 500 ETF,fund,diversified,US,NYSEARCA
+cfb46fad-6852-870c-278a-45a8ed452237,912828YR4,US Treasury Note 4.25% 2030,bond,treasury,US,BOND
+7cd97c58-77dc-8257-6327-be9a4ea638d3,912810SX7,US Treasury Bond 3.75% 2049,bond,treasury,US,BOND
+acbbf3b9-586a-d624-558b-9bdff11db6a2,037833DV9,Apple Inc. Corporate Bond 4.50% 2034,bond,corporate,US,BOND
+cef91441-9e84-2475-8592-b1c1b8d7b4be,594918BQ8,Microsoft Corp. Corporate Bond 3.95% 2032,bond,corporate,US,BOND

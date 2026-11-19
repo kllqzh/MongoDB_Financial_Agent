@@ -1,0 +1,19 @@
+{
+  "name": "ai-coding-with-mongodb-project",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Workshop attendee project scaffold. Empty server.js. Attendees fill it in during Lab 2.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "express": "^4.21.0",
+    "mongodb": "^6.10.0"
+  }
+}
